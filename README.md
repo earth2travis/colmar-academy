@@ -34,3 +34,5 @@ File > Add Folder to Workspace...
 - Add HTML5-boilerplate
 - Update <code>title</code>
 - Update <code>h1</code>
+
+## Add .gitignore file in root directory

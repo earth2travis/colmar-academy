@@ -55,3 +55,5 @@ https://earth2travis.github.io/colmar-academy/
 - Create New File named <code>reset.css</code>
 - Add [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) code
 - Link to <code>reset.css</code> stylesheet from <code>index.html</code>
+
+## Add Header and Footer

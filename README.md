@@ -27,3 +27,10 @@ File > Add Folder to Workspace...
 - Add <code>images</code> and <code>videos</code> directories
 - Move files into those directories
 - Push to GitHub
+
+## Create Index page in root directory
+
+- New file <code>index.html</code>
+- Add HTML5-boilerplate
+- Update <code>title</code>
+- Update <code>h1</code>

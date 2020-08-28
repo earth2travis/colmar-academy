@@ -52,6 +52,6 @@ https://earth2travis.github.io/colmar-academy/
 
 ## Add CSS reset
 
-- Create New File named <code>styles.css</code>
+- Create New File named <code>reset.css</code>
 - Add [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) code
-- Link <code>index.html</code> to stylesheet
+- Link to <code>reset.css</code> stylesheet from <code>index.html</code>

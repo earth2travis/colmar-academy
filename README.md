@@ -39,3 +39,19 @@ File > Add Folder to Workspace...
 - Add HTML5-boilerplate
 - Update <code>title</code>
 - Update <code>h1</code>
+
+## Update repository settings for GitHub Pages
+
+- Set Source to master
+- Save
+- Verify site is resolving
+
+```html
+https://earth2travis.github.io/colmar-academy/
+```
+
+## Add CSS reset
+
+- Create New File named <code>styles.css</code>
+- Add [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) code
+- Link <code>index.html</code> to stylesheet

@@ -7,13 +7,15 @@
 
 ## Clone repository on local machine
 
-- Navigate to directory you would like to add the project to
+Navigate to directory you would like to add the project to
 
 ```sh
 git clone https://github.com/earth2travis/colmar-academy.git
 ```
 
-## Add Folder to Workspace in VS Code
+## Add Folder to Workspace in [Visual Studio Code](https://code.visualstudio.com/)
+
+File > Add Folder to Workspace...
 
 ## Update README
 

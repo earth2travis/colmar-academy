@@ -22,6 +22,11 @@ File > Add Folder to Workspace...
 - Add initial steps
 - Push to GitHub
 
+## Add .gitignore file in root directory
+
+- [.gitignore](https://github.com/earth2travis/colmar-academy/blob/master/.gitignore)
+- Push to GitHub
+
 ## Import [Assets](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/capstone_colmar_assets.zip)
 
 - Add <code>images</code> and <code>videos</code> directories
@@ -34,5 +39,3 @@ File > Add Folder to Workspace...
 - Add HTML5-boilerplate
 - Update <code>title</code>
 - Update <code>h1</code>
-
-## Add .gitignore file in root directory

@@ -64,3 +64,6 @@ https://earth2travis.github.io/colmar-academy/
 - Footer
 
 ## Add Mobile Content
+
+- Style nav
+- Set images to `max-width: 100%`

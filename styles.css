@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans');
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  color: #4a4a4a;
+}
+
 nav {
   height: 64px;
   display: flex;
@@ -7,4 +15,37 @@ nav {
 
 img {
   width: 100%;
+}
+
+.hero {
+  background-color: #dbdbdb;
+}
+
+.hero div {
+  padding: 32px 16px;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-top: 32px;
+  padding-bottom: 24px;
+}
+
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #9b9b9b;
+  padding: 16px 0px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  text-align: center;
 }

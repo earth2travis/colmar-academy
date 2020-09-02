@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans');
-
+@import url('@import url('https://fonts.googleapis.com/css2?family=Nunito + Sans:wght@200;400;800&display=swap');');
 body {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 16px;
@@ -29,14 +28,15 @@ img {
 
 .hero h1 {
   font-size: 2rem;
-  font-weight: bolder;
+  font-weight: 800;
+  padding-bottom: 1rem;
 }
 
-.hero p {
+h3 {
   font-size: 1.5rem;
-  font-weight: bold;
-  padding-top: 32px;
-  padding-bottom: 24px;
+  font-weight: 400;
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
 }
 
 .block {
@@ -46,7 +46,7 @@ img {
   background-color: #9b9b9b;
   padding: 16px 0px;
   font-size: 1.2rem;
-  font-weight: bold;
+  font-weight: 400;
   color: white;
   cursor: pointer;
   text-align: center;
@@ -56,4 +56,21 @@ video {
   width: 100%;
   max-width: 100%;
   height: auto;
+}
+
+.feature {
+  padding: 1em 1em 4em 1em;
+}
+
+.feature p {
+  font-weight: 200;
+}
+
+.more {
+  padding-top: 1rem;
+}
+
+.more a {
+  text-decoration: none;
+  color: #5891dc;
 }

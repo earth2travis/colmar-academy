@@ -66,6 +66,7 @@ https://earth2travis.github.io/colmar-academy/
 ## Add Mobile Content
 
 - Style nav with Flexbox
-- Set images to `width: 100%`
+- Set video and images to `width: 100%`
 - Import Nunito font
 - Style hero
+- Style feature class

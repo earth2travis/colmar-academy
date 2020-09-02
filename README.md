@@ -29,16 +29,16 @@ File > Add Folder to Workspace...
 
 ## Import [Assets](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/capstone_colmar_assets.zip)
 
-- Add <code>images</code> and <code>videos</code> directories
+- Add `images` and `videos` directories
 - Move files into those directories
 - Push to GitHub
 
 ## Create Index page in root directory
 
-- New file <code>index.html</code>
+- New file `index.html`
 - Add HTML5-boilerplate
-- Update <code>title</code>
-- Update <code>h1</code>
+- Update `title`
+- Update `h1`
 
 ## Update repository settings for GitHub Pages
 
@@ -52,9 +52,9 @@ https://earth2travis.github.io/colmar-academy/
 
 ## Add CSS reset
 
-- Create New File named <code>reset.css</code>
+- Create New File named `reset.css`
 - Add [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) code
-- Link to <code>reset.css</code> stylesheet from <code>index.html</code>
+- Link to `reset.css` stylesheet from `index.html`
 
 ## Add HTML Structure
 

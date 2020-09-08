@@ -85,6 +85,10 @@ video {
   border-bottom: 2px solid #d8d8d8;
 }
 
+.learning h2 {
+  padding-top: 1.5rem;
+}
+
 .lessons {
   background-color: #d8d8d8;
   padding: 1rem;
@@ -94,6 +98,10 @@ video {
 .exhibits {
   padding-top: 1rem;
   margin-bottom: 1.5rem;
+}
+
+.exhibits h2 {
+  padding-top: 1.5rem;
 }
 
 footer {

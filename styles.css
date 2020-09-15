@@ -124,6 +124,10 @@ video {
   height: auto;
 }
 
+.features {
+  display: flex;
+}
+
 .feature {
   padding: 1rem;
 }

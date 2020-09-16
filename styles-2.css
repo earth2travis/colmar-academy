@@ -269,8 +269,21 @@ h3 {
   }
 }
 
+video {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
 .exhibits {
-  background: cadetblue;
+  padding-bottom: 24px;
+}
+
+@media (min-width: 576px) {
+  .exhibits {
+    display: flex;
+    padding-bottom: 32px;
+  }
 }
 
 .bottom-nav {

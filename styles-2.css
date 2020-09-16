@@ -251,7 +251,8 @@ h3 {
 
   .course {
     background: #fff;
-    flex-basis: 300px;
+    flex-basis: 250px;
+    margin: 16px;
   }
 
   .course .desktop {

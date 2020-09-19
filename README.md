@@ -50,7 +50,7 @@ Directory of image [assets](https://s3.amazonaws.com/codecademy-content/courses/
 
 ### index.html
 
-Fairly basic, somewhat semantic markup.
+Fairly basic, somewhat semantic markup
 
 #### HTML Structure
 
@@ -69,7 +69,7 @@ Provides a clean slate and reduces browser inconsistencies. Code provided by [Er
 
 ### styles.css
 
-- Uses [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans?query=nunito+sans) typeface imported from from Google Fonts.
+- Uses [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans?query=nunito+sans) typeface imported from from Google Fonts
 - Relies heavily on Flexbox for layout
 - Base rules are for smaller devices and media queries are for larger screens
 - Mixes `rem` and `px` units

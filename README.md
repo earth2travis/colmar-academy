@@ -1,11 +1,12 @@
-# Colmar Academy
+# [Colmar Academy](https://earth2travis.github.io/colmar-academy)
 
-- [Specification](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/colmar-academy-spec.png)
-- [Assets](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/capstone_colmar_assets.zip)
+Capstone Project for the [Codecademy Pro](http://ssqt.co/mQfd5Cb) [Build a Website with HTML, CSS, and Github Pages](https://www.codecademy.com/learn/paths/learn-how-to-build-websites) skill path.
 
-## Create colmar-academy repository on [GitHub](https://github.com/new)
+Site is mobile first and adapts to larger screens (> 576px) with media queries. Attempted keeping the code simple and semantic. But am eager to hear if you have any ideas for improvement. Especially if you can eliminate `<div>` tags. 😱
 
-## Clone repository on local machine
+Stays close to the [specification](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/colmar-academy-spec.png) but is not pixel perfect.
+
+## Clone repository on your local machine
 
 Navigate to directory you would like to add the project to
 
@@ -13,60 +14,70 @@ Navigate to directory you would like to add the project to
 git clone https://github.com/earth2travis/colmar-academy.git
 ```
 
-## Add Folder to Workspace in [Visual Studio Code](https://code.visualstudio.com/)
+## Change into the new directory
 
-File > Add Folder to Workspace...
-
-## Update README
-
-- Add initial steps
-- Push to GitHub
-
-## Add .gitignore file in root directory
-
-- [.gitignore](https://github.com/earth2travis/colmar-academy/blob/master/.gitignore)
-- Push to GitHub
-
-## Import [Assets](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/capstone_colmar_assets.zip)
-
-- Add `images` and `videos` directories
-- Move files into those directories
-- Push to GitHub
-
-## Create Index page in root directory
-
-- New file `index.html`
-- Add HTML5-boilerplate
-- Update `title`
-- Update `h1`
-
-## Update repository settings for GitHub Pages
-
-- Set Source to master
-- Save
-- Verify site is resolving
-
-```html
-https://earth2travis.github.io/colmar-academy/
+```sh
+cd colmar-academy/
 ```
 
-## Add CSS reset
+## List the files in the directory
 
-- Create New File named `reset.css`
-- Add [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) code
-- Link to `reset.css` stylesheet from `index.html`
+```sh
+cd colmar-academy/
+```
 
-## Add HTML Structure
+You should see the following:
+
+- LICENSE
+- README.md
+- images
+- index.html
+- reset.css
+- styles.css
+- videos
+
+### LICENSE
+
+[The MIT License](https://opensource.org/licenses/MIT) gives you permission to use this code for your projects.
+
+### README.md
+
+The document you are reading now. It just provides a very basic description of what is in this repository.
+
+### images
+
+Directory of image [assets](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/capstone_colmar_assets.zip) provided by Codecademy.
+
+### index.html
+
+Fairly basic, somewhat semantic markup.
+
+#### HTML Structure
 
 - Header
 - Main
 - Sections
 - Footer
 
-## Add Mobile Content
+#### Notable Code
 
-- Style nav with Flexbox
-- Set video and images to `width: 100%`
-- Import Nunito font
-- Style hero
-- Style feature class
+- `<picture>` element changes image files based on screen size
+
+### reset.css
+
+Provides a clean slate and reduces browser inconsistencies. Code provided by [Eric A. Meyer](https://meyerweb.com/eric/tools/css/reset/) and is available in the public domain.
+
+### styles.css
+
+- Uses [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans?query=nunito+sans) typeface imported from from Google Fonts.
+- Relies heavily on Flexbox for layout
+- Base rules are for smaller devices and media queries are for larger screens
+- Mixes `rem` and `px` units
+
+### videos
+
+Directory of video [assets](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/capstone-2/capstone_colmar_assets.zip) provided by Codecademy.
+
+## That's It
+
+This is a fairly basic project but a great way to practice some fundamental web development skills. View the finished [Colmar Academy](https://earth2travis.github.io/colmar-academy) project and give me a shout out on [Twitter](https://twitter.com/earth2travis) if this way helpful.

@@ -8,7 +8,7 @@ Stays close to the [specification](https://s3.amazonaws.com/codecademy-content/c
 
 ## Clone repository on your local machine
 
-Navigate to directory you would like to add the project to
+Navigate to directory you would like to add the project to:
 
 ```sh
 git clone https://github.com/earth2travis/colmar-academy.git
@@ -23,7 +23,7 @@ cd colmar-academy/
 ## List the files in the directory
 
 ```sh
-cd colmar-academy/
+ls
 ```
 
 You should see the following:
@@ -80,4 +80,4 @@ Directory of video [assets](https://s3.amazonaws.com/codecademy-content/courses/
 
 ## That's It
 
-This is a fairly basic project but a great way to practice some fundamental web development skills. View the finished [Colmar Academy](https://earth2travis.github.io/colmar-academy) project and give me a shout out on [Twitter](https://twitter.com/earth2travis) if this way helpful.
+This is a fairly basic project but a great way to practice some fundamental web development skills. View the finished [Colmar Academy](https://earth2travis.github.io/colmar-academy) project. Resize your browser window or check it out on multiple devices. Give me a shout out on [Twitter](https://twitter.com/earth2travis) if this way helpful.
